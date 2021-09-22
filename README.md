@@ -11,4 +11,5 @@ Venator is currently under heavy development. We'll announce a new release soon!
 |---|---|---|---|---|
 |1|AGO-2021|DEFCON 29 Recon Village| https://www.youtube.com/watch?v=fZJ7fq4Imqk | https://docs.google.com/presentation/d/1mL0NQQFqlhEhvhq1-b3LiTRNWrmZ9D-15yWNgwVW1Pg/edit?usp=sharing |
 |2|SEP-2021|DragonJAR 2021| - | - |
-|3|OCT-2021|EC-Council Hacker Halted 2021| - | - |
+|3|SEP-2021|BugCon 2021| - | https://docs.google.com/presentation/d/1WdYuI0oqxlq5NATKEMZYCQLDlPwCNt1a6e8IfOjFp5U/edit?usp=sharing |
+|4|OCT-2021|EC-Council Hacker Halted 2021| - | - |
