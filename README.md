@@ -13,3 +13,4 @@ Venator is currently under heavy development. We'll announce a new release soon!
 |2|SEP-2021|DragonJAR 2021| - | - |
 |3|SEP-2021|BugCon 2021| - | https://docs.google.com/presentation/d/1WdYuI0oqxlq5NATKEMZYCQLDlPwCNt1a6e8IfOjFp5U/edit?usp=sharing |
 |4|OCT-2021|EC-Council Hacker Halted 2021| - | - |
+|4|DEC-2021|Hacking Bolivia| - | https://docs.google.com/presentation/d/1jbVpN4dVpeCevvAB3vsXQAdfSBzVmnnR0x7DMiln0Ss/edit#slide=id.g3a5bc1ffba_0_109 |
